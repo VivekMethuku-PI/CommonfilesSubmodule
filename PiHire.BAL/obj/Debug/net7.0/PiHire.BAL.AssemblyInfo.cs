@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiHire.BAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d22ef170d10e395d07ba8cb066f5dcbc30e7cabb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d82117bc2494c0b2ab647d90067667e937dbb35c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiHire.BAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiHire.BAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

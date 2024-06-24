@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\piHIRE\\PiHire.o\\PiHire.BAL\\PiHire.BAL.csproj": {}
+    "D:\\submodules-tutorial\\PiHire.BAL\\PiHire.BAL.csproj": {}
   },
   "projects": {
-    "D:\\work\\piHIRE\\PiHire.o\\PiHire.BAL\\PiHire.BAL.csproj": {
+    "D:\\submodules-tutorial\\PiHire.BAL\\PiHire.BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\piHIRE\\PiHire.o\\PiHire.BAL\\PiHire.BAL.csproj",
+        "projectUniqueName": "D:\\submodules-tutorial\\PiHire.BAL\\PiHire.BAL.csproj",
         "projectName": "PiHire.BAL",
-        "projectPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.BAL\\PiHire.BAL.csproj",
+        "projectPath": "D:\\submodules-tutorial\\PiHire.BAL\\PiHire.BAL.csproj",
         "packagesPath": "C:\\Users\\vivek\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.BAL\\obj\\",
+        "outputPath": "D:\\submodules-tutorial\\PiHire.BAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\work\\piHIRE\\PiHire.o\\PiHire.DAL\\PiHire.DAL.csproj": {
-                "projectPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.DAL\\PiHire.DAL.csproj"
+              "D:\\submodules-tutorial\\PiHire.DAL\\PiHire.DAL.csproj": {
+                "projectPath": "D:\\submodules-tutorial\\PiHire.DAL\\PiHire.DAL.csproj"
               },
-              "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\PiHire.Utilities.csproj": {
-                "projectPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\PiHire.Utilities.csproj"
+              "D:\\submodules-tutorial\\PiHire.Utilities\\PiHire.Utilities.csproj": {
+                "projectPath": "D:\\submodules-tutorial\\PiHire.Utilities\\PiHire.Utilities.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\work\\piHIRE\\PiHire.o\\PiHire.DAL\\PiHire.DAL.csproj": {
+    "D:\\submodules-tutorial\\PiHire.DAL\\PiHire.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\piHIRE\\PiHire.o\\PiHire.DAL\\PiHire.DAL.csproj",
+        "projectUniqueName": "D:\\submodules-tutorial\\PiHire.DAL\\PiHire.DAL.csproj",
         "projectName": "PiHire.DAL",
-        "projectPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.DAL\\PiHire.DAL.csproj",
+        "projectPath": "D:\\submodules-tutorial\\PiHire.DAL\\PiHire.DAL.csproj",
         "packagesPath": "C:\\Users\\vivek\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.DAL\\obj\\",
+        "outputPath": "D:\\submodules-tutorial\\PiHire.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -233,14 +233,14 @@
         }
       }
     },
-    "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\PiHire.Utilities.csproj": {
+    "D:\\submodules-tutorial\\PiHire.Utilities\\PiHire.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\PiHire.Utilities.csproj",
+        "projectUniqueName": "D:\\submodules-tutorial\\PiHire.Utilities\\PiHire.Utilities.csproj",
         "projectName": "PiHire.Utilities",
-        "projectPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\PiHire.Utilities.csproj",
+        "projectPath": "D:\\submodules-tutorial\\PiHire.Utilities\\PiHire.Utilities.csproj",
         "packagesPath": "C:\\Users\\vivek\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\obj\\",
+        "outputPath": "D:\\submodules-tutorial\\PiHire.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

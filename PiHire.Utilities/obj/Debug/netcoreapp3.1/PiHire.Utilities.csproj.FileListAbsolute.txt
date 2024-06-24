@@ -9,3 +9,14 @@ D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilitie
 D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.dll
 D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.pdb
 D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.sourcelink.json
+D:\submodules-tutorial\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.deps.json
+D:\submodules-tutorial\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.dll
+D:\submodules-tutorial\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.pdb
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.csproj.AssemblyReference.cache
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.AssemblyInfoInputs.cache
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.AssemblyInfo.cs
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.csproj.CoreCompileInputs.cache
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.sourcelink.json
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.dll
+D:\submodules-tutorial\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.pdb

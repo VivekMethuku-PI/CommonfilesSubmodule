@@ -1037,11 +1037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\PiHire.Utilities.csproj",
+      "projectUniqueName": "D:\\submodules-tutorial\\PiHire.Utilities\\PiHire.Utilities.csproj",
       "projectName": "PiHire.Utilities",
-      "projectPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\PiHire.Utilities.csproj",
+      "projectPath": "D:\\submodules-tutorial\\PiHire.Utilities\\PiHire.Utilities.csproj",
       "packagesPath": "C:\\Users\\vivek\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.Utilities\\obj\\",
+      "outputPath": "D:\\submodules-tutorial\\PiHire.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYMIObiM1CcBwRDrUQbOwsr5BZkm0YNlzNKfMjCGYE+cUByIwsZZUsIRGu+nm49d7OiHRLdfUUcX4RXeCUlUDA==",
+  "dgSpecHash": "63vcTMwLBpUkFWDF3v+zSZ1dNAIvkSddEB6MPMpLiFizIlC+YIs1axjkte8ohyh8ZwNtXGE6xXc4LWQ5zLjLfw==",
   "success": true,
-  "projectFilePath": "D:\\work\\piHIRE\\PiHire.o\\PiHire.DAL\\PiHire.DAL.csproj",
+  "projectFilePath": "D:\\submodules-tutorial\\PiHire.DAL\\PiHire.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vivek\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vivek\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
