@@ -18,7 +18,7 @@ namespace PiHire.BAL.ViewModels
         public int? MinExpeInMonths { get; set; }
         public string JobStatus { get; set; }
         public string JobLocation { get; set; }
-        public string JobCountry { get; set; }
+        public string? JobCountry { get; set; }
         public DateTime? JobPostedOn { get; set; }
         public DateTime? JobEndDate { get; set; }
         public string JobCurrencyName { get; set; }
